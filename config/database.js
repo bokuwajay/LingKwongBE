@@ -11,7 +11,7 @@ module.exports = ({env}) => ({
         username: env('DATABASE_USERNAME', 'bokuwajay'),
         password: env('DATABASE_PASSWORD', 'Jay900515!'),
         // uri: env(
-        //   'mongodb+srv://bokuwajay:Jay900515!@cluster0.49wcu1u.mongodb.net/?retryWrites=true&w=majority',
+        //   'mongodb+srv://bokuwajay:Jay900515!@cluster0.49wcu1u.mongodb.net/db_lk_backend?retryWrites=true&w=majority',
         // ),
       },
       options: {
