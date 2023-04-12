@@ -9,7 +9,7 @@ module.exports = ({env}) => ({
         port: env.int('DATABASE_PORT', 27017),
         database: env('DATABASE_NAME', 'db_lk_backend'),
         username: env('DATABASE_USERNAME', 'bokuwajay'),
-        password: env('DATABASE_PASSWORD', 'Jay900515!'),
+        password: env('DATABASE_PASSWORD', 'XKYj4OMn85LtNK8E'),
         // uri: env(
         //   'mongodb+srv://bokuwajay:Jay900515!@cluster0.49wcu1u.mongodb.net/db_lk_backend?retryWrites=true&w=majority',
         // ),
